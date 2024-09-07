@@ -1,0 +1,7 @@
+Data_format = ['Name', 'Password', 'ACC/NO.', 'Balance', 'Transaction Pin']
+Data_1 = ['chatur', '123chatur', 1, 0, 1234]
+a1 =  Data_1[0]
+b1 =  Data_1[1]
+c1 =  Data_1[2]
+d1 =  Data_1[3]
+e1 =  Data_1[4]
